@@ -1,1 +1,1 @@
-code of somple calculator
+
