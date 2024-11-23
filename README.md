@@ -8,5 +8,5 @@ GIT COMMANDS USED:
 "git commit -m <message>" - COMMIT THE CHANGES.
 "git branch <branch_name>" - CREATE A NEW BRANCH.
 "git merge <branch_name>" - MERGE A BRANCH INTO THE CURRENT BRANCH.
-"git push" - PUSH CHANGES TO A REMOTE REPOSITORY. 
+"git push" - PUSH CHANGES TO A REMOTE REPOSITORY.  
 
